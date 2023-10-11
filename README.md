@@ -2,8 +2,8 @@
 <a href="https://github.com/naim08/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naim08&show_icons=true&theme=dark&bg_color=90,2b2bd4,fc466b&title_color=e1fc45&text_color=e1fc45&show=prs_merged_percentage" />
 </a>
-<a href="https://github.com/naim08/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim08&size_weight=0.5&count_weight=0.8&theme=dark&bg_color=90,2b2bd4,fc466b&title_color=e1fc45&text_color=e1fc45&hide=ruby)" />
+<a href="https://github.com/naim08">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim08&size_weight=0.5&count_weight=0.8&theme=dark&bg_color=90,2b2bd4,fc466b&title_color=e1fc45&text_color=e1fc45&hide=ruby,CSS" />
 </a>
 
 # Hello, World! 👋 I'm Naim
