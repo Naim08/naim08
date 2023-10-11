@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a Product Manager and FullStack Engineer, passionate a
 
 ## Favorite Repos
 <a href="https://github.com/naim08/AiEmail">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=naim08&repo=AiEmail&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=naim08&repo=AiEmail&card_width=200&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/naim08/DiscordClone">
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=naim08&repo=DiscordClone&card_width=200title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
