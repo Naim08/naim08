@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">Welcome to my GitHub! I'm a Product Manager and FullStack Engineer, passionate about telemedicine, ed-tech, and creating impactful software solutions that enhance end-user experiences.</h3>
+<h3>Welcome to my GitHub! I'm a Product Manager and FullStack Engineer, passionate about telemedicine, ed-tech, and creating impactful software solutions that enhance end-user experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naim08" alt="naim08" /></a> </p>
 
